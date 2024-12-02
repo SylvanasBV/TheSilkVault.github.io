@@ -9,8 +9,8 @@ const Head_Page = () => {
         <p className={styles.description}> 
             I'm a full-stack-developer with 1 year of experience using React and NodeJS.
             with knowledge in Java,Python,C#.
-            <h5>Welcome to my voult</h5>
         </p>
+        <h1 className={styles.description}>Welcome to my voult</h1>
         
         <a href="mailto:andres7.7mac@gmail.com" 
         className={styles.contactBtn}>
