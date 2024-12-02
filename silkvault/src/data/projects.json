@@ -1,26 +1,26 @@
 [
     {
-      "title": "Project A",
-      "imageSrc": "projects/project.png",
-      "description": "This is a project made to learn the latest languages by building an app.",
-      "skills": ["React", "Express", "Node"],
-      "demo": "https://www.example.com",
-      "source": "https://www.github.com"
+      "title": "Kumo's Quest follows",
+      "imageSrc": "projects/Kumo.png",
+      "description": "a young monkey named Kumo, whose parents are kidnapped by pirates. To save them, Kumo must uncover hidden secrets in the jungle, solving puzzles and discovering his special abilities to unlock new paths and advance through the map.",
+      "skills": ["Programmer", "Designer", "Physics"],
+      "demo": "https://adrianakalderon94.itch.io/didg",
+      "source": "https://github.com/Adriana-94/generationJam1"
     },
     {
-      "title": "Project B",
-      "imageSrc": "projects/project.png",
-      "description": "This is a project made to learn the latest languages by building an app.",
-      "skills": ["React", "Express", "Node", "Sass"],
-      "demo": "https://www.example.com",
-      "source": "https://www.github.com"
+      "title": "Cursed Legacy",
+      "imageSrc": "projects/Curse.png",
+      "description": "is a single-player adventure where you uncover your family’s cursed past through three generations, facing vengeful spirits and solving puzzles to destroy cursed relics and break the family’s curse.",
+      "skills": ["Programming", "Animation", "Art", "VFX"],
+      "demo": "https://inmartinezt.itch.io/cursed-legacy",
+      "source": "https://github.com/SylvanasBV/Cursed-legacy"
     },
     {
-      "title": "Project C",
-      "imageSrc": "projects/project.png",
-      "description": "This is a project made to learn the latest languages by building an app.",
-      "skills": ["React", "Express", "Node"],
-      "demo": "https://www.example.com",
-      "source": "https://www.github.com"
+      "title": "Colony Ques",
+      "imageSrc": "projects/Ant.png",
+      "description": "is a solo adventure where you control Lart, a larva collecting Ascension Seed fragments to save her colony while avoiding enemies and strengthening her survival skills.",
+      "skills": ["Animation", "Art", "Audio","Programming"],
+      "demo": "https://sylvanasbv.itch.io/colony-quest",
+      "source": "https://github.com/SylvanasBV/Ant-Ascendancy"
     }
   ]

@@ -6,7 +6,7 @@ const Navbar = () => {
   const [menuOpen, setMenuOpen] = useState(false);
   return (
     <nav className={styles.navbar}>
-      <a className={styles.title} href="/">Portfolio</a>
+      <a className={styles.title} href="/">SilkVault</a>
       <div className={styles.menu}>
         <img 
             className={styles.menuBtn} 

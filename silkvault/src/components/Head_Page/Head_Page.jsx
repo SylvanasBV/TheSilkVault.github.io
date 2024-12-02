@@ -5,10 +5,11 @@ const Head_Page = () => {
   return (
     <section className={styles.container}>
       <div className={styles.content}>
-        <h1 className={styles.title}> Hi, I'm Andres </h1>
+        <h1 className={styles.title}>Hi, I’m Andrés Felipe Barbosa Salamanca! </h1>
         <p className={styles.description}> 
-            I'm a full-stack-developer with 1 year of experience using React and NodeJS.
-            with knowledge in Java,Python,C#.
+                I’m a video game developer with expertise in Unity, C#, and Python, specializing in creating 
+                immersive 2D and 3D learning environments and applying machine learning solutions.
+                Reach out if you’d like to collaborate or learn more!
         </p>
         <h1 className={styles.description}>Welcome to my voult</h1>
         
